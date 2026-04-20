@@ -39,7 +39,8 @@ If Marketing lost the most jobs, is it a failing industry? No. By plotting the M
 ![Transformation Quadrant - Modified](images/ModificationRatevsProductivityGains.png)
 
 *(For comparison, workers who remained "Unchanged" saw significantly lower, stagnant productivity gains across all sectors).*
-![Transformation Quadrant - Unchanged](images/UnchangedWorkforcevsProductivityGains.png)
+
+![Transformation Quadrant - Unchanged](images/UnchangedWorkforceProductivity.png)
 
 ### 5. Mathematical Proof: The Gravity of Disruption
 To solidify these findings, I engineered a custom **AI Disruption Score** (scaling 1-25 by multiplying Adoption and Risk levels). The upward-sloping trendline mathematically proves the core thesis: pushing an employee into the high-risk AI integration zone does not destroy their value—it amplifies it.
